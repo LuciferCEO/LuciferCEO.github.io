@@ -8,7 +8,7 @@
       <link href="/posts/9daba997/"/>
       <url>/posts/9daba997/</url>
       
-        <content type="html"><![CDATA[<p><em>这是一篇测试文章</em><br><strong>二级标题</strong></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="这是一篇测试文章"><a href="#这是一篇测试文章" class="headerlink" title="这是一篇测试文章"></a>这是一篇测试文章</h1><h2 id="测试代码块"><a href="#测试代码块" class="headerlink" title="测试代码块"></a>测试代码块</h2><h2 id="使用java输出一句HelloWorld"><a href="#使用java输出一句HelloWorld" class="headerlink" title="使用java输出一句HelloWorld"></a>使用java输出一句<em>HelloWorld</em></h2><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="keyword">class</span> <span class="title class_">HelloWorld</span>&#123;</span><br><span class="line">    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title function_">main</span><span class="params">(String args[])</span>&#123;</span><br><span class="line">        System.out.println(<span class="string">&quot;Hello World!&quot;</span>);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br></pre></td></tr></table></figure><h2 id="测试无序列表"><a href="#测试无序列表" class="headerlink" title="测试无序列表"></a>测试无序列表</h2><ul><li>ad</li><li>adwaa</li></ul><h2 id="测试有序列表"><a href="#测试有序列表" class="headerlink" title="测试有序列表"></a>测试有序列表</h2><ol><li>ad</li><li>ad</li><li>ada</li><li>wu</li></ol>]]></content>
       
       
       
