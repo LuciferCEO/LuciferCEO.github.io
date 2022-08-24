@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Luciferの小窝</title>
+  
+  <subtitle>好耶！</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-08-24T11:17:57.145Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Lucifer</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试</title>
+    <link href="http://example.com/posts/9daba997/"/>
+    <id>http://example.com/posts/9daba997/</id>
+    <published>2022-08-24T10:34:25.000Z</published>
+    <updated>2022-08-24T11:17:57.145Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="这是一篇测试文章"><a href="#这是一篇测试文章" class="headerlink" title="这是一篇测试文章"></a>这是一篇测试文章</h1><h2 id="测试代码块"><a href="#测试代码块" class="headerlink" title="测试代码块"></a>测试代码块</h2><h2 id="使用java输出一句HelloWorld"><a href="#使用java输出一句HelloWorld" class="headerlink" title="使用java输出一句HelloWorld"></a>使用java输出一句<em>HelloWorld</em></h2><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="keyword">class</span> <span class="title class_">HelloWorld</span>&#123;</span><br><span class="line">    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title function_">main</span><span class="params">(String args[])</span>&#123;</span><br><span class="line">        System.out.println(<span class="string">&quot;Hello World!&quot;</span>);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br></pre></td></tr></table></figure><h2 id="测试无序列表"><a href="#测试无序列表" class="headerlink" title="测试无序列表"></a>测试无序列表</h2><ul><li>ad</li><li>adwaa</li></ul><h2 id="测试有序列表"><a href="#测试有序列表" class="headerlink" title="测试有序列表"></a>测试有序列表</h2><ol><li>ad</li><li>ad</li><li>ada</li><li>wu</li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;这是一篇测试文章&quot;&gt;&lt;a href=&quot;#这是一篇测试文章&quot; class=&quot;headerlink&quot; title=&quot;这是一篇测试文章&quot;&gt;&lt;/a&gt;这是一篇测试文章&lt;/h1&gt;&lt;h2 id=&quot;测试代码块&quot;&gt;&lt;a href=&quot;#测试代码块&quot; class=&quot;headerlink</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
