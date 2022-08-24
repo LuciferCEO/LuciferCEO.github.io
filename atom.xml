@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-08-24T11:17:57.145Z</updated>
+  <updated>2022-08-24T22:06:48.649Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Github老是报错</title>
+    <link href="http://example.com/posts/e74e4203/"/>
+    <id>http://example.com/posts/e74e4203/</id>
+    <published>2022-08-24T22:04:50.000Z</published>
+    <updated>2022-08-24T22:06:48.649Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Github报错我要死了"><a href="#Github报错我要死了" class="headerlink" title="Github报错我要死了"></a>Github报错我要死了</h1><p><em>哼哼 啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊</em></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;Github报错我要死了&quot;&gt;&lt;a href=&quot;#Github报错我要死了&quot; class=&quot;headerlink&quot; title=&quot;Github报错我要死了&quot;&gt;&lt;/a&gt;Github报错我要死了&lt;/h1&gt;&lt;p&gt;&lt;em&gt;哼哼 啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊&lt;/em&gt;&lt;</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>测试</title>
