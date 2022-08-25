@@ -3,11 +3,11 @@
   <title>Luciferの小窝</title>
   
   <subtitle>好耶！</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://luciferceo.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://luciferceo.github.io/"/>
   <updated>2022-08-24T22:07:31.017Z</updated>
-  <id>http://example.com/</id>
+  <id>https://luciferceo.github.io/</id>
   
   <author>
     <name>Lucifer</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Github老是报错</title>
-    <link href="http://example.com/posts/e74e4203/"/>
-    <id>http://example.com/posts/e74e4203/</id>
+    <link href="https://luciferceo.github.io/posts/e74e4203/"/>
+    <id>https://luciferceo.github.io/posts/e74e4203/</id>
     <published>2022-08-24T22:04:50.000Z</published>
     <updated>2022-08-24T22:07:31.017Z</updated>
     
@@ -38,8 +38,8 @@
   
   <entry>
     <title>测试</title>
-    <link href="http://example.com/posts/9daba997/"/>
-    <id>http://example.com/posts/9daba997/</id>
+    <link href="https://luciferceo.github.io/posts/9daba997/"/>
+    <id>https://luciferceo.github.io/posts/9daba997/</id>
     <published>2022-08-24T10:34:25.000Z</published>
     <updated>2022-08-24T11:17:57.145Z</updated>
     

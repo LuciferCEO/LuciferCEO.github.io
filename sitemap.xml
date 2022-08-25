@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/manifest.json</loc>
+    <loc>https://luciferceo.github.io/manifest.json</loc>
     
     <lastmod>2022-08-24</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/posts/e74e4203/</loc>
+    <loc>https://luciferceo.github.io/posts/e74e4203/</loc>
     
     <lastmod>2022-08-24</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/posts/9daba997/</loc>
+    <loc>https://luciferceo.github.io/posts/9daba997/</loc>
     
     <lastmod>2022-08-24</lastmod>
     
@@ -30,8 +30,8 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
-    <lastmod>2022-08-24</lastmod>
+    <loc>https://luciferceo.github.io/</loc>
+    <lastmod>2022-08-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
