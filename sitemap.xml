@@ -2,18 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://luciferceo.github.io/manifest.json</loc>
-    
-    <lastmod>2022-08-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://luciferceo.github.io/posts/e74e4203/</loc>
     
-    <lastmod>2022-08-24</lastmod>
+    <lastmod>2022-08-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -21,6 +12,15 @@
   
   <url>
     <loc>https://luciferceo.github.io/posts/9daba997/</loc>
+    
+    <lastmod>2022-08-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://luciferceo.github.io/manifest.json</loc>
     
     <lastmod>2022-08-24</lastmod>
     
