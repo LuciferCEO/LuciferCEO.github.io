@@ -6,7 +6,7 @@
   <link href="https://luciferceo.github.io/atom.xml" rel="self"/>
   
   <link href="https://luciferceo.github.io/"/>
-  <updated>2022-09-14T04:27:50.607Z</updated>
+  <updated>2022-12-31T04:05:02.512Z</updated>
   <id>https://luciferceo.github.io/</id>
   
   <author>
@@ -17,41 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>网课第1天作业</title>
-    <link href="https://luciferceo.github.io/posts/5c42cf5b/"/>
-    <id>https://luciferceo.github.io/posts/5c42cf5b/</id>
-    <published>2022-09-05T13:53:31.000Z</published>
-    <updated>2022-09-14T04:27:50.607Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="英语答案"><a href="#英语答案" class="headerlink" title="英语答案"></a>英语答案</h1><ol><li>A</li><li>D</li><li>B</li></ol><hr><ol><li>D</li><li>G</li><li>B</li><li>C</li><li>F</li></ol><h1 id="数学答案"><a href="#数学答案" class="headerlink" title="数学答案"></a>数学答案</h1><p><img src="https://raw.githubusercontent.com/LuciferCEO/PicGo/main/img/homeworkIMG_0595.JPG" alt=""></p><h1 id="语文答案"><a href="#语文答案" class="headerlink" title="语文答案"></a>语文答案</h1><p><img src="https://raw.githubusercontent.com/LuciferCEO/PicGo/main/img/homeworkIMG_0596.JPG" alt=""></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;英语答案&quot;&gt;&lt;a href=&quot;#英语答案&quot; class=&quot;headerlink&quot; title=&quot;英语答案&quot;&gt;&lt;/a&gt;英语答案&lt;/h1&gt;&lt;ol&gt;
-&lt;li&gt;A&lt;/li&gt;
-&lt;li&gt;D&lt;/li&gt;
-&lt;li&gt;B&lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li&gt;D&lt;/li&gt;
-</summary>
-      
-    
-    
-    
-    
-    <category term="网课" scheme="https://luciferceo.github.io/tags/%E7%BD%91%E8%AF%BE/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Git设置代理</title>
     <link href="https://luciferceo.github.io/posts/cb59751e/"/>
     <id>https://luciferceo.github.io/posts/cb59751e/</id>
     <published>2022-08-27T16:27:16.000Z</published>
-    <updated>2022-09-14T04:27:50.607Z</updated>
+    <updated>2022-12-31T04:05:02.512Z</updated>
     
     <content type="html"><![CDATA[<h1 id="关于如何给Git设置代理"><a href="#关于如何给Git设置代理" class="headerlink" title="关于如何给Git设置代理"></a>关于如何给Git设置代理</h1><p>使用<code>魔法</code>的时候，即使设置了系统代理（全局代理），命令行的指令也不会走代理。这是因为一些命令比较底层，位于软件层的软件无法接管流量。</p><p><em>For example</em><br><figure class="highlight powershell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">- git</span><br><span class="line">- ping</span><br></pre></td></tr></table></figure><br>这时候就得单独为它们设置代理<br><figure class="highlight powershell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">git config <span class="literal">--global</span> https.proxy http://<span class="number">127.0</span>.<span class="number">0.1</span>:<span class="number">1080</span></span><br><span class="line"></span><br><span class="line">git config <span class="literal">--global</span> https.proxy https://<span class="number">127.0</span>.<span class="number">0.1</span>:<span class="number">1080</span></span><br><span class="line"></span><br><span class="line">git config <span class="literal">--global</span> <span class="literal">--unset</span> http.proxy</span><br><span class="line"></span><br><span class="line">git config <span class="literal">--global</span> <span class="literal">--unset</span> https.proxy</span><br></pre></td></tr></table></figure></p>]]></content>
     
@@ -73,7 +43,7 @@
     <link href="https://luciferceo.github.io/posts/1c291ca3/"/>
     <id>https://luciferceo.github.io/posts/1c291ca3/</id>
     <published>2022-08-25T17:00:27.000Z</published>
-    <updated>2022-09-14T04:27:50.607Z</updated>
+    <updated>2022-12-31T04:05:02.512Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Hello-World！"><a href="#Hello-World！" class="headerlink" title="Hello World！"></a>Hello World！</h1><p>你发现了一篇不得了的文章！</p><p>ヽ(✿ﾟ▽ﾟ)ノ</p><p><strong>Powerd by LuciferCEO</strong></p>]]></content>
     
